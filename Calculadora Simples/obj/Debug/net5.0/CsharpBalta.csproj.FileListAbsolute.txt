@@ -1,0 +1,16 @@
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.exe
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.deps.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.runtimeconfig.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.runtimeconfig.dev.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\ref\CsharpBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\bin\Debug\net5.0\CsharpBalta.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.csproj.AssemblyReference.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.AssemblyInfoInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.AssemblyInfo.cs
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.csproj.CoreCompileInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\ref\CsharpBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\obj\Debug\net5.0\CsharpBalta.genruntimeconfig.cache
