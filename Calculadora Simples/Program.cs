@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Calculator
+namespace CalculatorS
 {
-    class Program
+    class Calculator
     {
         static void Main(string[] args)
         {
