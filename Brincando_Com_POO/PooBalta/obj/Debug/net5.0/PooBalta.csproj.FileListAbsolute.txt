@@ -1,0 +1,16 @@
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.csproj.AssemblyReference.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.AssemblyInfoInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.AssemblyInfo.cs
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.csproj.CoreCompileInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.exe
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.deps.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.runtimeconfig.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.runtimeconfig.dev.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\bin\Debug\net5.0\PooBalta.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\ref\PooBalta.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\PooBalta.genruntimeconfig.cache
+c:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\PooBalta\obj\Debug\net5.0\refint\PooBalta.dll

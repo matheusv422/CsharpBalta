@@ -7,14 +7,13 @@ namespace PooBalta.ContentContext
 {
     public class Career : Content
     {
-        public int Courses { get; set; }
-        public List<CareerItem> Items { get; set; }
+        public Career(string title, string url)
+            : base(title, url)
+        {
+            Items = new List<CareerItem>();
+        }
+
+        public IList<CareerItem> Items { get; set; }
         public int TotalCourses => Items.Count;
-        
-        
-      public Career()
-      {
-          Items = new List<CareerItem>();
-      }  
     }
 }

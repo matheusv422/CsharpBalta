@@ -5,8 +5,12 @@ using System.Threading.Tasks;
 
 namespace PooBalta.ContentContext
 {
-    public class Articles : Content
+    public class Article : Content
     {
+        public Article(string title, string url) : base(title,url)
+        {
+            
+        }
 
     }
 }
