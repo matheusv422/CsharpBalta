@@ -1,0 +1,15 @@
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\bin\Debug\net6.0\Poo_Animais.exe
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\bin\Debug\net6.0\Poo_Animais.deps.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\bin\Debug\net6.0\Poo_Animais.runtimeconfig.json
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\bin\Debug\net6.0\Poo_Animais.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\bin\Debug\net6.0\Poo_Animais.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.csproj.AssemblyReference.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.AssemblyInfoInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.AssemblyInfo.cs
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.csproj.CoreCompileInputs.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\refint\Poo_Animais.dll
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.pdb
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\Poo_Animais.genruntimeconfig.cache
+C:\Users\mvieirab\Documents\Curso JS\CsharpBalta\Brincando_Com_POO\Poo_Animais\obj\Debug\net6.0\ref\Poo_Animais.dll
