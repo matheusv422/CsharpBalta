@@ -11,7 +11,8 @@ namespace Poo_Animais.Service
 
         public void ExecutarPrograma()
         {
-
+            try
+            {
             var animal1 = new Animais();
             var animal2 = new Animais();
             var animal3 = new Animais();
@@ -87,6 +88,11 @@ namespace Poo_Animais.Service
             listaTiposAnimais.Add(animal5.TipoDeAnimal);
 
             ContabilizaTipoAnimal(listaTiposAnimais);
+                
+            }
+            catch (Exception ex)
+            { throw new Exception("Você digitou um dado inválido", ex);
+            }
         }
 
         public void ContabilizaTipoAnimal(List<byte> listaTiposAnimais)
